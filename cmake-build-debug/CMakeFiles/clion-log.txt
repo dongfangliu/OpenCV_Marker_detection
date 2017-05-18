@@ -1,0 +1,9 @@
+"E:\Program Files (x86)\JetBrains\CLion 2016.3.4\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" E:\Mycodes\OpenCV\OpenCVtest0
+-- OpenCV ARCH: x86
+-- OpenCV RUNTIME: mingw
+-- OpenCV STATIC: ON
+-- Found OpenCV 3.2.0 in C:/opencv/mingw-build/install/x86/mingw/lib
+-- You might need to add C:/opencv/mingw-build/install/x86/mingw/bin to your PATH to be able to run your applications.
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/Mycodes/OpenCV/OpenCVtest0/cmake-build-debug

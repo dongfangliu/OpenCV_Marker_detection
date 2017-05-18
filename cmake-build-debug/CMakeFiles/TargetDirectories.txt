@@ -1,0 +1,3 @@
+E:/Mycodes/OpenCV/OpenCVtest0/cmake-build-debug/CMakeFiles/test_cv.dir
+E:/Mycodes/OpenCV/OpenCVtest0/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/Mycodes/OpenCV/OpenCVtest0/cmake-build-debug/CMakeFiles/rebuild_cache.dir

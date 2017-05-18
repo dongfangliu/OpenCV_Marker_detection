@@ -1,0 +1,1 @@
+C:/opencv/mingw-build/install/x86/mingw/lib/libopencv_highgui320.dll.a C:/opencv/mingw-build/install/x86/mingw/lib/libopencv_imgcodecs320.dll.a C:/opencv/mingw-build/install/x86/mingw/lib/libopencv_imgproc320.dll.a C:/opencv/mingw-build/install/x86/mingw/lib/libopencv_core320.dll.a -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
